@@ -9,4 +9,5 @@ fn main() {
     if i > 0 {
         println!("{} is greater than 0.", i);
     }
+    println!("Hey I just want to commit something")
 }
