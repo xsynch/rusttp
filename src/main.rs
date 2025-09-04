@@ -11,4 +11,5 @@ fn main() {
     }
     println!("Hey I just want to commit something");
     println!("this is just another one to commit");
+    println!("again just committing something");
 }
